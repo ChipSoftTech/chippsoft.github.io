@@ -3,6 +3,13 @@
 <head>
   <style type="text/css">
     <!--
+    .bio {
+    max-height: fit-content;
+    border:5px #EAEFF6;
+    background-color: #EAEFF6;
+    padding:20px;
+    }
+
     .tab {
       margin-left: 40px;
     }
@@ -23,16 +30,37 @@
     .column {
       float: left;
       width: 33.33%;
-      padding: 20px;
-      height: 30%;
+      padding: 15px 25px 25px 25px;
+      height: 300px;
+      overflow: scroll;
+    }
+    /* width */
+    ::-webkit-scrollbar {
+    width: 5px;
+    }
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
     }
     
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+    background: #888; 
+    }
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+    }
+
     /* Create three equal columns that floats next to each other */
     .columnvone {
       float: left;
       width: 33.33%;
-      padding: 20px;
-      height: 35%;
+      padding: 15px 25px 25px 25px;
+      height: 350px;
+      overflow: scroll;
     }
 
     /* Clear floats after the columns */
@@ -46,8 +74,9 @@
     .twocolumn {
       float: left;
       width: 50%;
-      padding: 10px;
+      padding: 15px 25px 25px 25px;
       height: 40%;
+      overflow: scroll;
     }
 
     /* Clear floats after the columns */
@@ -64,6 +93,8 @@
 </head>
 
 <body style="font-family: Arial, Helvetica, sans-serif;font-size: 150%;">
+    
+    <!--LINKS-->
     <div class="w3-top">
     <div class="w3-row w3-large w3-blue-grey w3-hover-blue-grey">
     <div class="w3-col s1">
@@ -86,7 +117,7 @@
     <div class="w3-content" style="max-width:1100px;margin-top:80px;margin-bottom:80px"></div>
 
     
-
+    <!--Company info-->
 <h1 class="tab" style="color:rgb(20, 20, 40);""> 
     <img class="tab" src="Logo_Main.jpg" alt="Logo of a crane" height="99.5" width="153.4"> </img> 
     ChippSoft</h1>
@@ -185,13 +216,19 @@
 <br \>
 <br \>
 
+<div class = bio>
 <img src="BrianCarter.jpg" alt="Brian Carter, founder" height="200" width="200"></img>
 
         <p align="center" style="font-size: 80%;">ChippSoft was founded by Dr. Brian Carter in 2000 and has continued to provide IoT solutions for over 20 years. Focusing on bringing data to life through the interaction of chips, data, and applications creating a viable interface. Focusing on evolving information technology to create the best possible solutions in all areas of business and life.</p>
+</div>
 
+<br \>
+
+<div class="bio">
 <img src="KatherineCarter.jpg" alt="Katherine Carter, Intern" height="200" width="200"></img>
 
 <p align="center" style="font-size: 80%;">Katherine Carter is a student at Northern Kentucky University that focuses on web design and assisting Dr. Carter in different aspects of the business. </p>
+</div>
 
     <hr \>
     <a href="mailto:briancarter@chipsofttech.com"> Contact Us </a>
@@ -199,5 +236,7 @@
 
     <br \>
     <br \>
+    
+    <!--FOOTER-->
     <footer align="left" style="font-size:40%">Website by Katherine Carter August 2022</footer>
 </html>
