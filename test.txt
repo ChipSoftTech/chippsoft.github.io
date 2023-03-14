@@ -1,0 +1,217 @@
+Internet of Things – 
+Changing the way we live and work.
+
+Abstract
+
+The Internet of Things (IoT) is a network of physical objects. This includes, but is not limited to, appliances, home security systems, agricultural equipment, health monitors, factory equipment, and shipping containers, that are connected and can communicate with each other over the Internet. IoT opens boundless opportunities for businesses everywhere by allowing these physical objects to connect to the Internet. IoT enables us to interact with them remotely, monitor them in real-time, and control them from anywhere. This article will explore some of the physical objects listed above and how beneficial Internet of Things can be to everyday life. This article will cover its benefits, and applications used in these connected devices. We will also look at what we can expect from the future of IoT and how it will help our homes, our health, our work, and our farms.
+
+
+What is the Internet of Things?
+
+
+    The internet of Things (IoT) is the concept of devices connecting to the internet and to other devices that collect and share data. The internet of things is all around us. Think of anything you have that connects to your phone or internet. That is basically the Internet of Things. 
+
+     “Devices and objects with built in sensors are connected to an Internet of Things platform, which integrates data from the different devices and applies analytics to share the most valuable information with applications built to address specific needs” [1]. The most common devices we think of are everyday items in our life such as our phones, fitness trackers, personal home assistants like Alexa or Google Home and anything that connects to those devices. But there is so much more to the IoT world, there are connected appliances, smart home security systems, autonomous farming equipment, wearable health monitors, smart factory equipment and shipping container and logistics tracking. “By means of low-cost computing, the cloud, big data, analytics, and mobile technologies, physical things can share and collect data with minimal human intervention [2].”
+
+    In this paper, we will be discussing many of the items that are in the IoT world, how they are used, what they do and what they track. We will also investigate some of the pros and cons of some of these technologies.
+Benefits of IoT
+
+IoT offers several benefits. For one, it allows us to monitor and control physical objects from anywhere in the world; this usage can be to improve efficiency and reduce costs. For example, businesses can use IoT to monitor and control their equipment remotely; this can help them save time and money by eliminating the need for manual labor [15]. IoT also enables us to collect data from physical objects, which users can use to gain insights into how they are performing and how their improvement can be. For instance, a factory's production line utilization data can improve production procedures and boost productivity [16]. The Internet of Things can also automate operations and reduce human error. For instance, a business can automate its manufacturing line with IoT, eliminating the need for manual labor, which can lower costs and boost productivity. This may not be good news for job security, but businesses will always look for ways to be more productive and save money.
+
+Wearable Health Monitors
+     Wearable health monitors are smart health monitors that are connected to the cloud that collect, analyze, and transfer data in real time. We use these for ourselves to monitor fitness and health or they are a tool used by the healthcare industry to improve the quality of care for patients.
+ 
+      “Wearable technology is highly efficient for chronic condition monitoring, therapy delivery, rehabilitation, diagnostics, activity tracking because it enables continuous data tracking and immediate healthcare interventions. In 2021, the wearable medical devices market was estimated at $18.9 billion, and it is expected to reach $60.6 billion by 2027 at a CAGR of 22.2%. The drivers that impact the market expansion are the rise of lifestyle-associated diseases (e.g., hypertension), the growing demand for home healthcare, and the need to improve patient outcomes.[3]” 
+
+
+[3 fig 1]
+      Wearable health technology is becoming increasingly popular for consumers and the healthcare industry. The graph above shows the increase from just 2019 to 2020. This will only increase with the years as the technology become more and more accessible and streamlined.
+ 
+      The wearable in the healthcare industry is helping to provide more data to understand people’s habits and how different health conditions affect patients. It also improves their care and way of life. For example, a company AMC Health was founded by Nesim Bildirici, after the loss of his father who had chronic heart failure. His own personal experience made him believe that his father could have had a better life with his illness if remote monitoring was available. Making it possible to not have to manage home healthcare and allow a team to monitor health remotely and reduce hospital and doctor visits. AMC health nor provides many wearable health monitors as well as other health monitors that report health data in real time to a patient care system monitored by the patient’s health team. Some of these include scales, pulse oximeters, glucose monitors, blood pressure monitors and inhaler monitors. The patients use these monitors in the comfort of their own home and can communicate with their healthcare providers remotely eliminating unnecessary trips for those who are chronically ill. This can improve their quality of life and care. 
+
+  Doctors and patients are not the only ones benefiting from the wearable health monitors of the IoT. Insurance companies and employers are as well. The trend of wearable fitness monitors has attracted the attention of insurance providers because the more active a person is, the more likely they have better health. With having a healthier insured member, the less they must pay in healthcare costs. “Wearable technology incentivizes behavior that reduces hospital visits and readmissions due to poorly managed personal health. In a 2021 CVS Health Care Insights study conducted by Market Measurement, 75% of the 1,000 users who were surveyed agreed that wearables help them engage with their own health.[4]” When members are engaged in their own health, they are more likely to make better choices for their health. Insurance companies and employers sometimes even incentivize their members and employees to participate in wearing fitness trackers and hitting certain goals with lower insurance premiums and rewards. 
+
+      
+[4 fig 6]
+       Wearable health monitors are lowering healthcare costs as well. Because they are allowing for less “in person” visits, as well as assisting patients to stay healthy. The market of wearables becoming increasingly popular by the year, more are being made cheaper. Since there is a higher demand, the components, like sensors, are becoming easier to obtain at a reasonable price. This is great because, as the boomer population is aging, they have the ability to utilize home health remote monitoring. This will be incredibly helpful because of the nursing shortage that is occurring, and will continue to occur, as the boomer population ages into retirement. This will allow for the healthcare industry to balance out the big gap of employment allowing each nurse or healthcare professional to remotely monitor many patients at once. With the ability to perform this, they can more efficiently balance healthcare resources.
+
+[5, fig 2]
+
+     The graph above shows that the wearable market is indeed dominated by the healthcare industry and especially remote patient monitoring and home health. 
+       There are so many different types of health devices that have become a part of the internet of things that have improved the lives of people and their health. Many that people are unaware of. So, in this section we will talk about some of the remarkable devices that have been or are being introduced into the world of health IoT. 
+Glucose trackers
+      There are many types of glucose monitors but the ones mostly being sought after today are the ones that attach to your stomach or back of the arm. These monitors work just like the old ones that prick your finger. Obviously, the awesome thing about the ones you can wear on your body is that you don’t have to prick any fingers. These devices, in most cases, only need to be changed every 10 days. For example, the Dexcom G6 attaches to your stomach only and can be worn for 10 days. You can shower and swim with it on. No need for removal. These monitors have sensors in them that will continuously measure a person’s blood sugar. You may purchase a receiver but with most smartphones, you can just download their app and monitor your sugar levels from your own personal phone. This is amazing news for diabetics as monitoring their sugar is vital to their health. Recently, Dexcom has come out with a G7. This one can be worn on your stomach or the back of an arm. The G6 could only be worn on the tummy. With a wearable, portable device, they can have constant measurements of blood sugar and track their levels allowing for better, more personalized care and alert the patient is their blood sugar is too high or low. In the app on your phone, you can set the “high” limit so you will be alerted when your sugar is too high. The same goes for it being too low. This allows for a more overall rounded view of managing their diabetes.
+ 
+
+[6, fig 1]
+Wearables for heart attacks
+      Wearables for heart attacks. For people who suffer from heartbeat abnormalities there are wearable or implantable defibrillators that a patient can have as a life saving device that will provide them with more of an independence and control over their lives. This device can produce the shock treatment the patient may need at the right time. This data can also be tracked to help the doctor and patient better understand their condition.
+Apple Watch Health benefits
+         The Apple watch is a wearable health monitor that can provide people with lots of information and data about their health and assist in managing symptoms. For example, patients with movement disorders such as Parkinson’s can wear the Apple watch to monitor their symptoms and plan their activities around the severity of their systems at the time. [7] 
+       It also has many other things that can assist with health wise. It can monitor loud noises that could cause hearing loss and alert you so that you can take precautions to protect your hearing such as getting away from the load noise or wearing ear plugs.
+
+     It allows women to track their menstrual cycles which is crucial for monitoring women’s health. As women, we all know that one of their first questions we are asked at any doctor’s office is when our last menstrual cycle was and many of us struggle to remember the exact days and how heavy that cycle was, but now we can track that easily on our wrist and get reminders of upcoming cycles.
+ 
+     The Apple watch also has a built-in heart rate monitor that can monitor abnormal heart rates and rhythms that can warn your about issues you should see your doctor about. It can also help you in your fitness as having a lower heart rate while working out is a goal to being more fit. It also lets you know if maybe you are going to hard for your fitness level.
+ 
+      Another big detection tool the watch has is a fall monitor. The Apple watch can detect a fall and sent and alert for help. A notification will pop up on the watch if there is a fall and you can respond that you are ok and to not send help or it will alert for help. Many people have already credited this feature for saving their life or a loved one’s life [8].
+
+[9, fig 1]
+
+      The graph above shows that Apple watch users have seen considerable change in their overall health and fitness because of the health features of the apple watch. Any help in changing health habits of people only benefits us and the health industry in providing better healthcare and quality of life. 
+Hearing aids
+       People that have hearing disabilities can use digital hearing aids that convert sound waves into digital signals and produce precise sound duplication. The computer chips embedded in the digital hearing aids can analyze speech and other sounds in the environment. Digital hearing aids have substantial flexibility in hearing aid programming, so that sound they produce can be matched to the specific hearing loss pattern. For example, iPhone users can utilize Air pods’ Live Listen feature to amplify the sounds they hear. With this functionality people with hearing impairments can clearly hear the conversation in the noisy area.[7]”
+
+
+
+Industrial Internet of Things (IIoT)
+
+
+      “Industrial IoT is a system of interconnected industrial assets (machinery, equipment, vehicles, warehouses, shop floors, inventory, etc.) with embedded software and built-in sensors for collecting and exchanging data.[10]” Industrial IoT is transforming the manufacturing world. These technologies are increasing productivity, minimizing down time, making safer work environments and giving companies competitive edges and saving them money.  
+
+
+[10, fig 1] 
+    
+As you can see by the graph above the manufacturing industry is a large chunk of the industries that are benefiting from IoT technologies.
+ 
+     Industrial IoT has several aspects to it. It encompasses the shop floor and the sensors in equipment that can track and collect data as well as be calibrated to perform certain functions at certain time. Managers can collect and analyze this data to control production; it also includes the supply chain. The technologies can monitor the movement of delivery of supplies and products as well as track employee’s metrics. They can also monitor things like temperature controls in trucks and warehouses.
+ 
+      Predictive maintenance is one of the big benefits of the industrial IoT. With the embedded sensors in the machinery, they can detect issues with the machines and alert when maintenance is needed and saving a company unnecessary down time by fixing and maintaining machinery before it breaks down and causes production loss. 
+
+[10, fig 2]
+
+     There are however some challenges to the industrial IoT. One is the integration of IoT machinery and systems, it can be costly and slow down production short term. You must also implement many different devices in order to run IoT machinery. “The switches, routers, and wireless equipment that connect IoT devices must provide the needed bandwidth and be able to withstand punishing physical conditions on factory floors or outdoors. This equipment must support the communication protocols in use to provide visibility and help monitor each endpoint. Network equipment should also be able to run edge applications to respond to emerging situations in real time and to extract, curate, and transmit operations data to applications in a data center or the cloud.[11]”
+
+     It also has a skills gap. With industrial IoT the skill gap widens as there will not be enough people who know how to use and implement the machinery and the need for more IT professionals are needed which are higher paid employees and there is a shortage of IT professionals. Then there is security which is always an issue when dealing with the internet of things.
+“Security remains the most significant concern for connected devices because data is transmitted between numerous nodes and can be highly vulnerable without proper security measures.
+
+    Today, manufacturing is the primary victim of hacking attacks. When traditional factories transform into digital ones, they turn into IP-based systems where each connected item is vulnerable to cybercrime. That is why manufacturers should prioritize security and safety by implementing efficient protection solutions.
+
+    Manufacturers must adapt to sophisticated hacking technologies to avoid data loss, theft of intellectual property, or other intrusions. Legacy equipment that incorporates IoT technology should be equipped with defensive tools. In creating a new connected environment, a security strategy should be implemented from the very beginning.[10]”
+
+
+Industry 4.0, The 4th Industrial Revolution
+
+[12, fig 1]
+     Industrial 4.0 is a new term that is referring to the 4th industrial revolution happening now. It is the revolution of the industry moving toward automation and data exchange and processes in the manufacturing industry. “The manufacturing sector has arguably been the arena most impacted by industrial revolutions. Now, new terminology has emerged, such as smart manufacturing and the smart factory. To avoid confusion, it helps to recognize that smart manufacturing is the umbrella term, referring to the efforts to modernize industrial practices through smarter equipment, facilities, products, data, and processes. The term includes the parallel concepts of Industry 4.0 and the smart factory. In smart factories, the production environment is run with minimal human intervention using new industrial manufacturing technologies, such as IoT, robotics, and additive manufacturing.[13]” 
+
+
+[12, fig 2]
+       The technologies involved the Industry 4.0 as shown on the image above are:
+-Big Data and AI analytics
+-Horizontal and vertical integration
+-Cloud computing 
+-Augmented reality (AR 
+-Industrial Internet of Things (IIoT) 
+-Additive manufacturing/3D printing 
+-Autonomous robots 
+-Simulation/digital twins 
+-Cybersecurity 
+     The way of the future is with technology. We have always progressed with technology that causes revolution after revolution. If you think about each revolution before the 4th that we are in today, it all began with new technology. The first revolution was machinery, steam power and creation of weaving looms, the second was mass production, assembly lines and electrical energy and the third was automation, computers and electronics and the 4th that we are in today is cyber physical systems, networks, and internet of things along with the rest of the technologies listed above. 
+
+[13, fig 2]
+
+
+
+IoT in Connected Appliances
+
+
+
+Figure 1: Shown above is a fully equipped kitchen with all smart appliances that can be connected to and controlled from a smart phone.
+Source: [20]
+Smart appliances can connect to the Internet and be controlled remotely by the owner/user. IoT enables us to monitor and control these appliances from anywhere in the world. For example, we can use IoT to monitor the temperature of our refrigerator as well as adjust the temperature remotely. We can also use IoT to turn our appliances on or off remotely; this can help us save energy and reduce costs. The Internet of Things can automate procedures and reduce human error [16]. By eliminating the need for manual labor, IoT-enabled washing machine programming, for instance, will allow you to start and stop automatically from whatever device you’re using to control it from. This will help lower costs and increase efficiency. The final IoT application is data collection from linked appliances using this information. One can learn more about how they perform and areas where they may need improvement. For instance, data acquired from dishwasher use can enhance the washing cycle and reduce energy consumption. When the washer or dryer needs maintenance, a notification will be sent saying what to check or what to service. This makes life so much easier.
+
+
+Figure 2: Shown above is a washer notifying the owner to check the vent for a better performance.
+Source: [20]
+	       Smart appliances are not exactly affordable, but most people are willing to spend the extra money on convenience and making their life easier. A smart washer and dryer (combined) can cost anywhere from approximately $700 up to $5,000 and sometimes even more. This all depends on what brand it is, where it is bought, what it comes with, and what it has to offer. This is the same with dishwashers, stoves, ovens, and refrigerators. These prices are, of course, if these are bought brand new. All of these listed above can be controlled via your smart phone. A washer can be started and stopped using the company app. If there are maintenances or a malfunction, a detailed notice will be sent to your phone. This is the same for an oven, stove, and refrigerator. The temperatures in an oven can even be adjusted from a phone.
+IoT in Home Security Systems
+
+Smart home security systems are security systems connected to the Internet monitoring control that can be remote. IoT enables us to monitor and control these systems from anywhere in the world. For example, we can use IoT to monitor our home security cameras and turn on and off the alarms remotely [17]. Using IoT can also help automate security procedures and lower human error. By reducing the need for manual labor, IoT-enabled security system programming, for instance, can automatically detect intruders and inform us; this can help cut costs and increase efficiency. Finally, IoT use can collect data from smart home security systems. Then, this data usage can be used to gain insights into their performance and possible improvement [17]. For instance, data collected from a security camera usage is to optimize the security system and reduce false alarms. Connected appliances can dramatically improve the convenience of everyday living by providing remote control access over things like lighting or heating systems [17]. Smart home security systems are becoming increasingly popular as people seek to improve their homes' safety with features such as cameras, alarm systems, and automatic door locks.
+
+Internet of Things (IoT) technology is used in home security systems to monitor and secure people's homes. With IoT-enabled appliances like motion detectors, security cameras, and network-connected locks, homeowners can remotely monitor activity around their homes and take preventative security steps by sending out rapid warnings when anything unusual is noticeable [16]. Additionally, many home security systems now use voice-controlled assistants with facial recognition capabilities to better protect people's homes. Having an IoT device in each room of the house makes it easier for homeowners to keep tabs on multiple locations without needing to install numerous wires.
+
+
+Figure 3: A graph showing the rise in smart home security systems starting in the year 2020.
+Source: [21]
+IoT in Autonomous Farming Equipment
+
+Autonomous farming equipment can connect to the internet so it can be monitored and controlled remotely just like appliances. Since IoT enables farmers to do this, they can manage their equipment from anywhere globally [16]. Farmers can use IoT to monitor the temperature and humidity of their fields and adjust the irrigation system remotely. They can also use IoT to turn on and off their equipment which can help save energy and reduce costs. IoT's other users can also automate processes and reduce human error. For instance, IoT-enabled tractors are programmable to drive autonomously, eliminating the need for manual labor; this can help reduce costs and improve efficiency. Finally, IoT is also important for collecting data from autonomous farming equipment. This data is essential in gaining insights into how they are performing and how improvement is achievable. For instance, data collected from a tractor is vital to optimizing farming and increasing yields [16]. Additionally, automated farming equipment is changing the face of agriculture by utilizing advanced technology to monitor crop yields and climate conditions remotely; this allows farmers to focus on higher-level tasks, such as strategizing, rather than mundane laborious tasks.
+In contrast to traditional tractors, autonomous tractors operate without human intervention. Farmers only need to install the system and do routine maintenance on the [29]. With the development of technologies such as global positioning systems (GPS), computer vision, and light detection, smart tractors have become increasingly autonomous and profitable for farmers throughout the world [29].
+Even though the technology behind autonomous electric tractors is still in its infancy, it holds a great deal of promise for the farming sector. They are self-sufficient and productive, and their low-emission technology safeguards both the soil and the environment. Bear Flag Robotics is an example of an autonomous tractor provider [29]. The company's primary focus is developing driverless tractors to cut down on farmers' labor costs. Besides letting farmers operate tractors remotely, the company also allows them to map out their routes ahead of time and receive alerts and updates in real time [29]. All of these are accomplished without the need for human intervention.
+
+
+
+Figure 4: By 2050, the world’s population is expected to reach 9.8 billion. Agricultural production will need to increase by 70% to meet the growing demand for food.
+Source: [22]
+
+The Internet of Things (IoT) is used in autonomous farming equipment to automate various activities, from seeding to harvesting. Using smart sensors to keep an eye on the health of the plants and the soil can help automate watering and fertilization. Weed control, crop upkeep, and harvesting are the three main uses of autonomous tractors [18]. Autonomous drones can survey crops or apply pesticides or fertilizer over a vast region. All these activities can be monitored in real-time using IoT-enabled devices and apps, providing farmers with an efficient way to manage their operations.
+
+
+
+Figure 5: Pictured above is a drone watering crops while being controlled by the farmer/user.
+Source: [23]
+
+Drones are useful in many ways for farmers and are increasingly used in agriculture for various tasks, including pest management, plant health monitoring, livestock management, soil analysis, and aerial survey [28]. Plant health monitoring is one of the most promising applications of drones in agriculture. Generally, growing healthy crops is essential for optimizing harvests; however, insects, fungi, and other diseases may cause significant damage to crops [28]. Furthermore, inadequate carbon and nitrate concentrations in the soil are two more factors that reduce the productive potential of a plant. Historically, farmers have monitored these factors using visual inspections and soil analyses [28]. However, such techniques are time-consuming and reliant on the expertise of the observer to detect potential warning signals of crop or land issues. Using this technique on a wide scale is inefficient [28]. Comparatively, soil analysis might be even slower than visual inspections since sampling is required, and it is often done in a laboratory by trained specialists [28]. The time-consuming nature of this procedure always results in a data lag, hindering farmers from getting daily crop data in real time.
+
+Drones may carry out the activities in real time by deploying a mix of RBG cameras, thermal imaging, and multi-spectral imaging [28]. Using appropriate equipment, a drone operator may survey a field and provide the farmer with a comprehensive report detailing everything from the number of plants to their current state of health [28]. The data gathered by drones is timely and precise, allowing farmers to take prompt action. Thus, drones represent a paradigm-shifting technology that is only getting started in the process of transforming precision agriculture.
+
+What We Can Expect from the Future of IoT
+
+
+Figure 6: By 2025, it is expected that the IoT market would increase to $3 trillion.
+Source: [24]
+
+The future of IoT is promising. We can expect to see more connected devices, more data-driven insights, and more automation. Devices with IoT capabilities will advance in intelligence and capacity for interacting with their surroundings. This adaptability will improve our ability to monitor and manage physical objects. More data-driven insights are something else we can anticipate. Insights about how connected devices are performing and how improvement will be gleaned from the data collected, allowing us to streamline procedures and cut expenses. Finally, we can anticipate a rise in automation [16]. Processes will be able to be automated by IoT-enabled devices, removing the requirement for manual labor. As a result, we can cut expenses and boost productivity. The future of the Internet of Things (IoT) is bright and filled with potential. It will be a huge driver of innovation across virtually all industries, from healthcare and education to retail, manufacturing, and transportation. As more devices connect to the Internet, we can expect greater customization, predictive analytics, automation, and other advanced capabilities. We can also expect increased security through better authentication, authorization, and encryption methods for data transmission over the network [16]. Finally, IoT will allow for quicker response times by enabling devices to communicate with each other faster. As a result, we can expect an increase in efficiency and cost savings in many areas of our lives.
+
+How IoT Helps Our Homes
+
+
+Figure 7
+Source: [25]
+IoT can help us in our homes in several ways. Monitoring and controlling our appliances, home security systems, and other connected devices from anywhere in the world. These are just a few things of IoT usage. Through this usage, IoT can help us save time and money by eliminating the need for manual labor. IoT utilization may be to gather data from our connected devices, which utilization is to understand better how well they are working and where improvement employment can be. For instance, we may optimize energy use in our homes and cut expenditures using an intelligent thermostat's data. Using IoT can help automate processes and reduce human error in actual use. For example, setting IoT-enabled equipment to start and stop automatically can eliminate the need for manual labor [17]. By doing this, one can increase productivity and cut expenditures. The Internet of Things (IoT) is a revolutionary technology that has changed how we interact with the physical world. It is a network of connected devices that can sense and interact with each other, from refrigerators to door locks, to lightbulbs and air conditioners. This interconnectivity network allows us to make our homes smarter, safer, and more efficient. 
+
+
+Figure 8: An example of what it looks like from a smart phone to be able to control the security, lights, thermostat, and even music, in your home.
+Source: [26]
+
+Smart Home Automation devices give us unprecedented control over our homes. We can remotely lock our doors, monitor the energy use in our homes in real-time, set up automated lights and thermostats to keep our energy bills low, and schedule alerts if something is wrong or out-of-the-ordinary happens around the house [17]. We can also take advantage of connected appliances like refrigerators that will alert us when we need to buy milk or smart security cameras that send us notifications when there is activity outside our front door. With the help of IoT, we can control our homes more than ever. From helping to save energy and money to providing peace of mind when we are away, the Internet of Things is transforming our homes and making life easier.
+
+
+How IoT Helps Farmers
+
+Figure 9: As the chart above shows, there are many ways IoT can help farmers maintain and manage their crop.
+Source: [27]
+
+In many ways, IoT can benefit farmers. It allows for remote monitoring and management of agricultural machinery. They can save time and money by doing this because manual labor is no longer necessary [17]. They can also utilize IoT to gather data from their farming equipment, allowing them to see how they are doing and where they can improve. For example, information collected from tractor utilization can improve farming practices and raise yields. IoT employment is another way to reduce human error and automate processes. IoT-enabled tractors, for instance, can be set up to operate without human intervention, reducing the requirement for physical work. Costs reduction and productivity could rise as a result [17]. The Internet of Things (IoT) helps farmers by connecting different sensors and monitors to smart farming systems—allowing for improved precision, more efficient data-based decisions, and continuous monitoring of crops, livestock, and the farm environment supporting various tasks, from routine irrigation scheduling to integrated pest management and better crop yields. Many benefits from the enhanced automation that IoT brings [17]. A cloud-based platform linking can be to automatic handheld devices, such as systems monitoring soil, moisture, and the environment.
+
+Additionally, connected devices like drones can monitor crop health or survey land more accurately than ever. On the animal front, IoT has provided technologies such as smart ear tags, which can passively track the location of animals or provide health status information [17]. At the same time, these devices can monitor data such as temperature or heart rate throughout their lifecycles, allowing producers to make faster adjustments to maintain optimal production.
+
+How IoT Will Benefit Us
+
+IoT will benefit us in several ways. It will enable us to monitor and control physical objects from anywhere in the world, which can help us save time and money by eliminating the need for manual labor. IoT will also allow us to gather information from actual physical objects, which we can then use to learn more about how they are doing and how they may be improved, allowing us to streamline procedures and cut expenses [18]. Finally, IoT will enable us to automate processes and reduce human error, helping us reduce costs and improve efficiency.
+
+The Internet of Things (IoT) has the potential to revolutionize how we live, work, and play. IoT technology can collect data from various sources, analyze it in real time, and act on it in near-instantaneous ways, helping us become more efficient, save money, make smarter decisions, and live sustainably [18]. Here are some of the most significant benefits we can expect to see from IoT technology:
+
+1.	Automation & Efficiency – IoT technology enables devices to communicate with each other and automate specific tasks. This communication is already happening in smart homes where compatible devices interact with each other to save energy. Integrating IoT into our everyday lives will automate many activities and thus take less time or effort while still being done efficiently [18].
+2.	Improved Security – IoT-connected systems allow us to control access to physical locations such as buildings or industrial sites using biometric authentication scanners or facial recognition software linked with secure authentication systems [15]. In other words, this means unauthorized individuals cannot access these areas without the correct credentials.
+3.	Increased Connectivity – IoT utilization can also link otherwise connected humans through technology, such as a smartwatch that monitors an individual's activity and sends updates back to their doctor to analyze. In addition, IoT also increases our ability to communicate with each other through home appliances or using wearable technology to get feedback from different parts of the world [17].
+4.	Sustainability - IoT technology is also helpful in decreasing waste and saving energy by assisting us in monitoring our resource usage at various periods of the day or week and limiting our consumption accordingly. This usage has the potential to overcome many environmental difficulties we currently face [17]. Overall, the Internet of Things could benefit us in many ways, from efficiency and security improvements, enhanced connectivity, and sustainability benefits-making; it is an invaluable tool for improving lives worldwide.
+
+The Internet of Things (IoT) is a network of physical objects, such as appliances, home security systems, and farming equipment, that are connected and can communicate with each other over the Internet. IoT offers several benefits, such as improved efficiency, reduced costs, and automation [17]. We have explored how IoT applications in connected appliances, smart home security systems, and autonomous farming equipment. We have also looked at what we can expect from the future of IoT and how it will help our homes and farms [17]. Ultimately, IoT will benefit us by enabling us to monitor and control physical objects anywhere in the world, collect data from physical objects, and automate processes helping us save time and money and improve efficiency.
+
+
+Conclusion
+
+All these developments make our homes safer through improved security monitoring and automation. They allow farmers to focus on developing strategies by automating time-consuming tasks [17]. They lower energy costs by allowing connected appliances to use less energy when necessary or turn it off when not in use. Our lives are also made simpler by the availability of better-connected gadgets. From remotely managing schedules with linked appliances to assuring secure access with modern smart locks, these products make life easier for us all while helping everyone save time in one way or another.
+
+These Technologies also improve our health and healthcare systems, and the way the manufacturing is done. The internet of things has led us to the 4th industrial revolution. We are starting to rely on the technology to improve our lives and businesses in almost every facet. There is only more to come. 
+
+
+
+
+
+
+
+
+
